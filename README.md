@@ -3,7 +3,7 @@ A Discord Bot developed during Discord Hack Week that allows users the ability t
 
 ![ArtRateBotLogo](http://jerry.best/ArtRateBot.png)
 
-If you wish to try out ArtRateBot yourself, you can join our delightful server, and interact with us wonderful creators of ArtRateBot here: [LinkToArtRateBotDiscordServer](http://discord.gg/5tukZRm)
+If you wish to try out ArtRateBot yourself, you can join our delightful Discord server, and interact with us wonderful creators of ArtRateBot here: [LinkToArtRateBotDiscordServer](http://discord.gg/5tukZRm)
 
 ArtRateBot was developed by '@Jek D. Gon#0001' and '@HoZKiNZ#1346' specifically for Discord Hack Week. We had a lot of fun making this bot, and are happy with the result. Due to the end of Hack Week rapidly approaching, we had to scale back a little in order to meet the deadline, but our hope is to continue to work on this bot over time. Make no mistake, the bot IS good as it stands, but we did suffer a few limitations.
 
