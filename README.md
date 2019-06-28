@@ -44,7 +44,7 @@ The bot's actions are limited specifically to their related rooms on the Discord
 Receiving feedback from artist's has helped us ensure that credit and copyright is adhered to.
 
 ## Limitations
-Currently, we are struggling to implement a saving of the database function. As the bot operates now, all linked artwork and corresponding ratings will be lost should the bot need to be restarted.
+Currently, we are struggling to implement a saving of the database function. As the bot operates now, all linked artwork and corresponding ratings will be lost if/when the bot is restarted.
 
 The reactions required to interact with .rate are posted under the message of the user who requested to rate a piece of artwork. It would be better if these reactions were linked to the message that send the artwork.
 
