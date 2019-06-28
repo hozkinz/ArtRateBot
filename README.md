@@ -60,6 +60,6 @@ In the future, the bot could be expanded in a few ways.
 ## Parting Thoughts
 This has been a wonderful experience for us. We have learned a lot about just what it takes to create something worthwhile. We hope that this bot brings you endless joy and fun curiosity. If you decide to use this bot, or expand upon it, please let us know. We would love to see just what you're capable of too. Discord Hack Week 2019 represent!
 
-**Jek:** OwO
+**Jek:** OwO 
 
 **Hoz:** LLAP
