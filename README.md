@@ -41,7 +41,9 @@ Receiving feedback from artist's has helped us ensure that credit and copyright 
 
 ## Limitations
 Currently, we are struggling to implement a saving of the database function. As the bot operates now, all linked artwork and corresponding ratings will be lost should the bot need to be restarted.
+
 The reactions required to interact with .rate are posted under the message of the user who requested to rate a piece of artwork. It would be better if these reactions were linked to the message that send the artwork.
+
 While not straying too far from what we wanted, the original bot idea was a *little* bit different.
 
 ## Expandability
