@@ -1,0 +1,22 @@
+{
+  "name": "ArtRateBot",
+  "version": "1.0.0",
+  "description": "Let random people rate your Art",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jek & HoZKiNZ",
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/hozkinz/ArtRateBot/blob/master/LICENSE"
+  }]
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hozkinz/ArtRateBot"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "save": "^2.4.0"
+  }
+}
