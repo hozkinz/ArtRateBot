@@ -34,9 +34,13 @@ This command can only be used by the moderators and admin of the ArtRateBot serv
 
 ## Successes
 Mostly everything works how we like.
+
 The commands are simple and easy to get used to.
+
 Uploaded artwork cannot have the same names as each other.
+
 The bot's actions are limited specifically to their related rooms on the Discord server.
+
 Receiving feedback from artist's has helped us ensure that credit and copyright is adhered to.
 
 ## Limitations
