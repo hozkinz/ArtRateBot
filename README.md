@@ -3,7 +3,9 @@ A Discord Bot developed during Discord Hack Week that allows users the ability t
 
 ![ArtRateBotLogo](http://jerry.best/ArtRateBot.png)
 
-If you wish to try out ArtRateBot yourself, you can join our delightful Discord server, and interact with us wonderful creators of ArtRateBot here: [LinkToArtRateBotDiscordServer](http://discord.gg/5tukZRm)
+~~If you wish to try out ArtRateBot yourself, you can join our delightful Discord server, and interact with us wonderful creators of ArtRateBot here: [LinkToArtRateBotDiscordServer]~~
+
+We have taken the decision to remove our Discord server for this bot. You are obviously free to copy the code here and implement it as you wish, and further develop it to a better working state. We had further unforseen troubles after the Hack Week results were published, namely Discord Image Links not actually displaying the images after a certain amount of time. We don't know why this happens, because we think it shouldn't, so we'll blame Discord.. for now.
 
 ArtRateBot was developed by '@Jek D. Gon#0001' and '@HoZKiNZ#1346' specifically for Discord Hack Week. We had a lot of fun making this bot, and are happy with the result. Due to the end of Hack Week rapidly approaching, we had to scale back a little in order to meet the deadline, but our hope is to continue to work on this bot over time. Make no mistake, the bot IS good as it stands, but we did suffer a few limitations.
 
@@ -48,7 +50,9 @@ Currently, we are struggling to implement a saving of the database function. As 
 
 The reactions required to interact with .rate are posted under the message of the user who requested to rate a piece of artwork. It would be better if these reactions were linked to the message that send the artwork.
 
-While not straying too far from what we wanted, the original bot idea was a *little* bit different.
+While not straying too far from what we wanted, the original bot idea was a *little* bit different..
+
+After a while, links to images uploaded to Discord fail to preview, so .rate only brings up the title of the artwork.
 
 ## Expandability
 In the future, the bot could be expanded in a few ways.
